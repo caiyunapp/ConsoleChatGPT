@@ -11,4 +11,8 @@ export OPENAI_API_KEY=YOUR_KEY
 python3 src/chat.py
 ```
 
-<img width="977" alt="Screen Shot 2023-02-12 at 11 46 20 PM" src="https://user-images.githubusercontent.com/299962/218321278-e3fc3100-9b03-4eb7-a167-56e2ded766bb.png">
+![Feb-13-2023 00-07-06](https://user-images.githubusercontent.com/299962/218322403-6e7e768f-9b51-4151-8e93-b06f626ada3c.gif)
+
+<img width="1157" alt="Screen Shot 2023-02-13 at 12 06 12 AM" src="https://user-images.githubusercontent.com/299962/218322474-f621e2ec-80e6-4153-9b0b-91522e70eeee.png">
+
+
