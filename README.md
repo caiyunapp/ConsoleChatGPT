@@ -1,5 +1,5 @@
 # ConsoleChatGPT
-ChatGPT simulator using OpenAI Official API text-davinci-003, but generated with proper prompt.
+ChatGPT simulator using OpenAI Official API model: text-davinci-003, but generated with proper prompt.
 
 ## Get your api key
 visit https://platform.openai.com/account/api-keys
